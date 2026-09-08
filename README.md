@@ -238,3 +238,6 @@ This repository serves as the official landing page for FPS Creator. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FPS Creator today!**
+
+---
+**Last updated:** 2026-09-08 23:43:25 UTC
