@@ -240,4 +240,4 @@ This repository serves as the official landing page for FPS Creator. The softwar
 **Get the most recent version of FPS Creator today!**
 
 ---
-**Last updated:** 2026-09-22 12:11:09 UTC
+**Last updated:** 2026-09-22 17:23:38 UTC
